@@ -23,12 +23,20 @@ Evaluation metrics include **F1 Score, Precision, Recall, ROC-AUC, PR-AUC**.
 ## Repository Structure
 ```
 ** image-anomaly-detection **
-┣ Appendix_Notebooks/ # code-only notebooks (detailed explanations in PDF)
-│ ┣ appendix_dbscan.ipynb
-│ ┣ appendix_oneclasssvm.ipynb
-│ ┣ appendix_isolationforest.ipynb
-│ ┣ appendix_autoencoder.ipynb
-│ ┗ appendix_patchcore.ipynb
+┣ appendix_dbscan.ipynb # DBSCAN implementation
+┣ appendix_oneclasssvm.ipynb # One-Class SVM implementation
+┣ appendix_isolationforest.ipynb # Isolation Forest implementation
+┣ appendix_autoencoder.ipynb # Autoencoder implementation
+┣ appendix_patchcore.ipynb # PatchCore implementation
 ┣ 1st Group_Anomaly Detection Presentation.pdf # project presentation slides with explanations
 ┗ README.md
 '''
+### Appendix Notebooks
+All five methods are provided as **separate code-only notebooks** in the root directory of this repository.  
+Detailed explanations, methodology, and result interpretation are documented in the **presentation PDF**.  
+
+- `appendix_dbscan.ipynb` – DBSCAN (Density-based)  
+- `appendix_oneclasssvm.ipynb` – One-Class SVM (Boundary-based)  
+- `appendix_isolationforest.ipynb` – Isolation Forest (Tree-based)  
+- `appendix_autoencoder.ipynb` – Autoencoder (Reconstruction-based)  
+- `appendix_patchcore.ipynb` – PatchCore (Distance-based)  
