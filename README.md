@@ -23,7 +23,7 @@ Evaluation metrics include **F1 Score, Precision, Recall, ROC-AUC, PR-AUC**.
 ---
 
 ## Repository Structure
-'''
+```
 image-anomaly-detection
 ┣ appendix_dbscan.ipynb # DBSCAN (Density-based)
 ┣ appendix_oneclasssvm.ipynb # One-Class SVM (Boundary-based)
@@ -32,7 +32,7 @@ image-anomaly-detection
 ┣ appendix_patchcore.ipynb # PatchCore (Distance-based)
 ┣ 1st Group_Anomaly Detection Presentation.pdf # project presentation slides with explanations
 ┗ README.md
-'''
+```
 * Note: All five methods are provided as **separate code-only notebooks** in the root directory of this repository.  
 Detailed explanations, methodology, and result interpretation are documented in the **presentation PDF**.  
 
