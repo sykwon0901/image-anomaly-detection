@@ -24,7 +24,7 @@ Evaluation metrics include **F1 Score, Precision, Recall, ROC-AUC, PR-AUC**.
 
 ## Repository Structure
 '''
-** image-anomaly-detection **
+image-anomaly-detection
 ┣ appendix_dbscan.ipynb # DBSCAN (Density-based)
 ┣ appendix_oneclasssvm.ipynb # One-Class SVM (Boundary-based)
 ┣ appendix_isolationforest.ipynb # Isolation Forest (Tree-based)
