@@ -17,7 +17,7 @@ We evaluated five unsupervised anomaly detection techniques on two subsets of th
 
 All methods were trained only on **normal data** (unsupervised setting).  
 Evaluation metrics include **F1 Score, Precision, Recall, ROC-AUC, PR-AUC**.
-
+* Note: This is a course team project.
 ---
 
 ## Repository Structure
